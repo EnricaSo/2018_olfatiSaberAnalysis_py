@@ -1,4 +1,4 @@
-# Analysis of the alpha alpha protocol
+# Alpha alpha analysis
 
 This projects allows to analyse the principle characteristics of a flock defined by the Alpha Alpha Protocol by Olfati Saber. The input must be provided in a csv file, containing positions, velocities and accelerations of the agents.
 
